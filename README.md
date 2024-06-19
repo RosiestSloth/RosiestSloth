@@ -3,7 +3,7 @@
 - 🌱 I'm currently learning Python, JavaScript, HTML, and CSS.
 - 👀 I'm interested in becoming a full stack programmer.
 - 💞️ I'm looking to collaborate on open source projects and learn TypeScript.
-- 📫 You can reach me via WhatsApp at (62) 9 9284-6807.
+- 📫 You can reach me on WhatsApp at (62) 9 9284-6807.
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I enjoy playing Minecraft and other games. Feel free to connect with me on WhatsApp if you'd like to play together!
 
