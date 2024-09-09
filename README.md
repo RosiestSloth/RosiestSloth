@@ -7,6 +7,13 @@
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I enjoy playing Minecraft and other games. Feel free to connect with me on WhatsApp if you'd like to play together!
 
+## Hard Skills:
+- **React.Js**: React.js for developing responsive and interactive web layouts.
+- **Vue.Js**: Experienced in Vue.js for building modern and adaptable web designs.
+- **Tailwind.Css**: Tailwind CSS with React and Vue to craft responsive and contemporary designs.
+- **Wordpress**: Creating and maintaining websites efficiently using Astra themes and various plugins.
+- **Figma**: Designing modern and visually appealing web and mobile interfaces with Figma.
+
 ## Soft Skills:
 - **Communication**: Effective communication.
 - **Emotional Intelligence**: Understanding and managing emotions.
@@ -17,7 +24,7 @@
 - **Conflict Resolution**: Resolving conflicts peacefully.
 
 ## Hobbies and Interests:
-- **Learning New Programming Languages**: I love exploring new languages, especially programming ones.
+- **Learning New Programming Languages**: Passionate about exploring new languages, especially in programming.
 - **Listening to Music**: Music is a wonderful way to relax and find inspiration.
 - **Training at the Gym**: Taking care of my body is essential.
 - **Playing (Games or Sports)**: Engaging in play brings me happiness.
