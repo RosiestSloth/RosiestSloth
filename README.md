@@ -26,6 +26,6 @@
 ## Hobbies and Interests:
 - **Learning New Programming Languages**: Passionate about exploring new languages, especially in programming.
 - **Listening to Music**: Music is a wonderful way to relax and find inspiration.
-- **Training at the Gym**: Taking care of my body is essential.
+- **Training at the Gym**: Taking care of my body and my mind is essential.
 - **Playing (Games or Sports)**: Engaging in play brings me happiness.
 - **Learning New Frameworks**: Just like learning new languages, exploring frameworks is essential for growth.
