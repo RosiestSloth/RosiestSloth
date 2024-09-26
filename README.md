@@ -1,6 +1,6 @@
 # Hi, I'm Vinicius! 👋
 
-- 🌱 I'm currently learning Python, JavaScript, HTML, and CSS.
+- 🌱 I'm currently learning React, Vue, JavaScript, C and Java.
 - 👀 I'm interested in becoming a full stack programmer.
 - 💞️ I'm looking to collaborate on open source projects and learn TypeScript.
 - 📫 You can reach me on WhatsApp at (62) 9 9284-6807.
