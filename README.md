@@ -1,31 +1,40 @@
-# Hi, I'm Vinicius! 👋
+## 💜 Olá, meu nome é Vinicius Santos!
 
-- 🌱 I'm currently learning React, Vue, JavaScript, C and Java.
-- 👀 I'm interested in becoming a full stack programmer.
-- 💞️ I'm looking to collaborate on open source projects and learn TypeScript.
-- 📫 You can reach me on WhatsApp at (62) 9 9284-6807.
-- 😄 Pronouns: he/him.
-- ⚡ Fun fact: I enjoy playing Minecraft and other games. Feel free to connect with me on WhatsApp if you'd like to play together!
+## 👋 Sobre Mim e Minha Stack  
+Olá! Eu sou o **Vinicius Santos**, estudante de programação e apaixonado por tecnologia. Minha stack inclui **HTML5**, **CSS3**, **Tailwind.css**, **JavaScript**, **TypeScript**, **Python**, **React**, **Nuxt**, **WordPress**, e ferramentas como **Figma** e **Notion**. Estou constantemente aprendendo para aprimorar minhas habilidades e contribuir com projetos de código aberto.
 
-## Hard Skills:
-- **React.Js**: React.js for developing responsive and interactive web layouts.
-- **Vue.Js**: Experienced in Vue.js for building modern and adaptable web designs.
-- **Tailwind.Css**: Tailwind CSS with React and Vue to craft responsive and contemporary designs.
-- **Wordpress**: Creating and maintaining websites efficiently using Astra themes and various plugins.
-- **Figma**: Designing modern and visually appealing web and mobile interfaces with Figma.
+## 🔭 Projeto Atual  
+Atualmente, estou trabalhando em um site WordPress para o **Correspondente Vianopolino**, otimizando o design e funcionalidades para oferecer uma melhor experiência aos leitores. Também estou explorando projetos em **React** e **Nuxt** para desenvolvimento web moderno.
 
-## Soft Skills:
-- **Communication**: Effective communication.
-- **Emotional Intelligence**: Understanding and managing emotions.
-- **Adaptability**: Learning new skills.
-- **Time Management**: Improving productivity and reducing stress.
-- **Teamwork**: Collaborating with others.
-- **Empathy**: Putting myself in the place of other people.
-- **Conflict Resolution**: Resolving conflicts peacefully.
+## 💬 Vamos Conversar!  
+Adoro trocar ideias e aprender com outros desenvolvedores. Se você tiver perguntas ou quiser colaborar em um projeto, sinta-se à vontade para me enviar uma mensagem! Você pode entrar em contato comigo pelo meu [WhatsApp](https://wa.me/556292846807) ou pelo GitHub. 😉
 
-## Hobbies and Interests:
-- **Learning New Programming Languages**: Passionate about exploring new languages, especially in programming.
-- **Listening to Music**: Music is a wonderful way to relax and find inspiration.
-- **Training at the Gym**: Taking care of my body and my mind is essential.
-- **Playing (Games or Sports)**: Engaging in play brings me happiness.
-- **Learning New Frameworks**: Just like learning new languages, exploring frameworks is essential for growth.
+
+---
+
+## 🚀 Minhas Skills
+
+### Habilidades
+
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3"/></code>
+<code><img height="32" src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="Tailwind.css"/></code>
+<code><img height="32" src="https://www.svgrepo.com/show/452202/figma.svg" alt="Figma"/></code>
+<code><img height="32" src="https://www.svgrepo.com/show/342071/notion.svg" alt="Notion"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/2/20/WordPress_logo.svg" alt="WordPress"/></code>
+<code><img height="32" src="https://www.svgrepo.com/show/373940/nuxt.svg" alt="Nuxt"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
+
+
+
+---
+
+## ⭐ GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rosiestsloth&show_icons=true)
