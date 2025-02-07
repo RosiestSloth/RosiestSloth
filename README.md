@@ -4,7 +4,7 @@
 Olá! Eu sou o **Vinicius Santos**, estudante de programação e apaixonado por tecnologia. Minha stack inclui **HTML5**, **CSS3**, **Tailwind.css**, **JavaScript**, **TypeScript**, **Python**, **React**, **Nuxt**, **WordPress**, e ferramentas como **Figma** e **Notion**. Estou constantemente aprendendo para aprimorar minhas habilidades e contribuir com projetos de código aberto.
 
 ## 🔭 Projeto Atual  
-Atualmente, estou trabalhando em um site WordPress para o **Correspondente Vianopolino**, otimizando o design e funcionalidades para oferecer uma melhor experiência aos leitores. Também estou explorando projetos em **React** e **Nuxt** para desenvolvimento web moderno.
+Atualmente, estou trabalhando em um site Nuxt, **Trajetória JavaScript **, otimizando o design e adicionando funcionalidades para oferecer uma melhor experiência dos usuários. Também estou explorando projetos em **React** para desenvolvimento web moderno.
 
 ## 💬 Vamos Conversar!  
 Adoro trocar ideias e aprender com outros desenvolvedores. Se você tiver perguntas ou quiser colaborar em um projeto, sinta-se à vontade para me enviar uma mensagem! Você pode entrar em contato comigo pelo meu [WhatsApp](https://wa.me/556292846807) ou pelo GitHub. 😉
