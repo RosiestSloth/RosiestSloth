@@ -12,6 +12,9 @@ Adoro trocar ideias e aprender com outros desenvolvedores. Se você tiver pergun
 
 ---
 
+[![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=vintradev)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 ![Github Snake Animation](https://raw.githubusercontent.com/Eliedson1979/Eliedson1979/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only) 
 
