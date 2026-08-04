@@ -12,7 +12,7 @@ Adoro trocar ideias e aprender com outros desenvolvedores. Se você tiver pergun
 
 ---
 
-[![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=vintradev)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=VintraDev)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 
