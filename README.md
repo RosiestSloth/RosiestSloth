@@ -1,14 +1,16 @@
-## 💜 Olá, meu nome é Vinicius Santos!
+# Vinicius Santos
 
-## 👋 Sobre Mim e Minha Stack  
-Olá! Eu sou o **Vinicius Santos**, estudante de programação e apaixonado por tecnologia. Minha stack inclui **HTML5**, **CSS3**, **Tailwind.css**, **JavaScript**, **TypeScript**, **Python**, **React**, **Nuxt**, **WordPress**, e ferramentas como **Figma** e **Notion**. Estou constantemente aprendendo para aprimorar minhas habilidades e contribuir com projetos de código aberto.
+## Sobre Mim
 
-## 🔭 Projeto Atual  
-Atualmente, estou trabalhando em um site Nuxt, **Clinica Sensory**, otimizando o design e adicionando funcionalidades para oferecer uma melhor experiência dos usuários. Também estou explorando projetos em **React** para desenvolvimento web moderno.
+Sou estudante de programação e desenvolvedor com interesse em tecnologia e design de produto. Trabalho com **React**, **Vite/Next**, **Tailwind CSS**, **JavaScript**, **TypeScript**, **Python**, **Nuxt** e **WordPress**, utilizando ferramentas como **Figma** e **Notion** no meu fluxo de trabalho. Busco constantemente aprimorar minhas habilidades e contribuir com projetos de código aberto.
 
-## 💬 Vamos Conversar!  
-Adoro trocar ideias e aprender com outros desenvolvedores. Se você tiver perguntas ou quiser colaborar em um projeto, sinta-se à vontade para me enviar uma mensagem! Você pode entrar em contato comigo pelo meu [WhatsApp](https://wa.me/556292846807) ou pelo GitHub. 😉
+## Projeto Atual
 
+Atualmente desenvolvo o site **Avex CRM**, construído em Next.js com Prisma, com foco em otimização de design e implementação de funcionalidades para melhorar a experiência do usuário. Também dedico parte do meu tempo a projetos em React com a **RocketSeat** voltados para o desenvolvimento web e mobile moderno.
+
+## Contato
+
+Estou aberto a trocar ideias, aprender com outros desenvolvedores e colaborar em projetos. Entre em contato pelo [WhatsApp](https://wa.me/556292846807) ou pelo GitHub.
 
 ---
 
@@ -16,12 +18,9 @@ Adoro trocar ideias e aprender com outros desenvolvedores. Se você tiver pergun
 
 ---
 
-![Github Snake Animation](https://raw.githubusercontent.com/Eliedson1979/Eliedson1979/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only) 
+![Github Snake Animation](https://raw.githubusercontent.com/Eliedson1979/Eliedson1979/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-
-## 🚀 Minhas Skills
-
-### Habilidades
+## Stack Técnica
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3"/></code>
